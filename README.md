@@ -2,7 +2,11 @@
 
 An AI-powered recommendation system built with **Python**, **scikit-learn**, and **Streamlit**.  
 This app allows users to discover similar **movies** and **songs** using **content-based filtering** and **clustering** techniques.
-
+![Python](https://img.shields.io/badge/Python-3.9%2B-green)  
+![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)  
+![scikit--learn](https://img.shields.io/badge/scikit--learn-ML%20Algorithms-orange)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-blue)  
+![AI](https://img.shields.io/badge/AI-Recommendation%20System-purple) 
 ---
 
 ## 🚀 Features
@@ -34,7 +38,7 @@ This app allows users to discover similar **movies** and **songs** using **conte
 ---
 
 ## 📂 Project Structure
-
+```
 movie-music-recommender/
 │── app/
 │ └── streamlit_app.py # Streamlit frontend
@@ -56,7 +60,7 @@ movie-music-recommender/
 │── requirements.txt
 │── README.md
 └── .gitignore
-
+```
 
 ---
 
